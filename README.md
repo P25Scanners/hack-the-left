@@ -7,7 +7,7 @@ Props to <a href='https://github.com/rhodey'>rhodey</a> for writing the code-bas
 To Do's: Create a rtl-sdr driver for P25 scanning.
 
 
-In order to write a driver for the RTL-SDR, use the USRP driver rhodey wrote as an example.....
-Step 1. Extend the TuneableSampleSource class like in the Usrp module 
+In order to write a driver for the RTL-SDR, use the USRP driver rhodey wrote as an example.....<br>
+Step 1. Extend the TuneableSampleSource class like in the Usrp module <br>
 Step 2. Implement TuneableSampleSourceProvider like in UsrpProvider
 
