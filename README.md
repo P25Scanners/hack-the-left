@@ -1,6 +1,6 @@
 # hack-the-left
 
-Repository created for Cop Radio project for <a href=https://noisebridge.net/wiki/HackTheLeft#Tentative_Schedule>hack-the-left<a> hackathon 
+Repository created for Cop Radio project for <a href=https://noisebridge.net/wiki/HackTheLeft#Tentative_Schedule>hack-the-left<a> hackathon, happening this weekend Feb. 5-7 @ Noisebridge.
 
 Props to <a href='https://github.com/rhodey'>rhodey</a> for writing the code-base we're going to hack on. 
 
