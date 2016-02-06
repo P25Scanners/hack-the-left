@@ -3,10 +3,8 @@
 To Do's: Create a rtl-sdr (JAVA) driver for P25 scanning.
 
 
-Vision: Once an rtl-sdr driver is written, anyone can set up a police recording station for the cheap price of $19 (an rtl-sdr).  The recordings will be databased into an archive which can be used for evidence in police-related violence cases.  There is also some talk of later on running the recordings through a text-processing engine and perhaps adding some automatic functionality when search-words are found- like dropping pins on addresses, or warning people if they're near an addres.... But first, we just need a simple rtl-sdr driver. 
+Vision: Once an rtl-sdr driver is written, anyone can set up a police recording station for the cheap price of $19 (an rtl-sdr).  The recordings will be databased into an archive which can be used for evidence in police-related violence cases.  There is also some talk of later on running the recordings through a text-processing engine and perhaps adding some automatic functionality when search-words are found- like dropping pins on addresses, or warning people if they're near an address.... But first, we just need a simple rtl-sdr driver. 
 
-
-Repository created for Cop Radio project for <a href=https://noisebridge.net/wiki/HackTheLeft#Tentative_Schedule>hack-the-left<a> hackathon, happening this weekend Feb. 5-7 @ Noisebridge.
 
 Props to <a href='https://github.com/rhodey'>rhodey</a> for writing the code-base we're going to hack on. 
 
