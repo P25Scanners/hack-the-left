@@ -14,4 +14,4 @@ Step 1. Extend the TunableSampleSource class like in the Usrp module <br>
 The above USRP driver imports TunableSampleSource from <a href= 'https://github.com/rhodey/dsp-common/blob/master/src/main/java/org/anhonesteffort/dsp/sample/TunableSamplesSource.java'>Here</a>
 
 Step 2. Implement TunableSampleSourceProvider like in UsrpProvider
-UsrpProvider I believe is defined as TunableSampleSourceProvider in <a href='https://github.com/rhodey/dsp-common/blob/master/src/main/java/org/anhonesteffort/dsp/sample/TunableSamplesSourceProvider.java'>HERE</a>
+UsrpProvider is defined: <a href='https://github.com/rhodey/dsp-usrp-source/blob/a8a546435a7d5d5d903dc6c6b1cadfdf7556692f/src/main/java/org/anhonesteffort/usrp/UsrpProvider.java'>HERE</a>
