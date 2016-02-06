@@ -23,6 +23,6 @@ Step 2. Implement TunableSampleSourceProvider like in UsrpProvider<br>
 So the code you'll be hacking on is UsrpProvider which is defined: <a href='https://github.com/rhodey/dsp-usrp-source/blob/a8a546435a7d5d5d903dc6c6b1cadfdf7556692f/src/main/java/org/anhonesteffort/usrp/UsrpProvider.java'>HERE</a>
 
 <br>
-Definitely Check out the training-guide handbook for P25 systems.... here: <a href='http://www.dvsinc.com/papers/p25_training_guide.pdf'></a><br>
-Learn about P25 Systems <a href='http://wiki.radioreference.com/index.php/Project_25 http://wiki.radioreference.com/index.php/APCO-25_Common_Air_Interface'></a>
+Definitely Check out the training-guide handbook for P25 systems.... <a href='http://www.dvsinc.com/papers/p25_training_guide.pdf'>here</a><br>
+Learn about P25 Systems <a href='http://wiki.radioreference.com/index.php/Project_25 http://wiki.radioreference.com/index.php/APCO-25_Common_Air_Interface'>here</a>
 <br>
